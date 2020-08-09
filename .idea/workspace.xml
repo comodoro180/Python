@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a86df4bd-dbfb-4d7e-bb10-b3ecaebb24f7" name="Default Changelist" comment="Virtual enviroment for coursera excercises" />
+    <list default="true" id="a86df4bd-dbfb-4d7e-bb10-b3ecaebb24f7" name="Default Changelist" comment="Virtual enviroment for coursera excercises">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +20,35 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Excersice5_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Course1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Course1/Excersice5_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Excersice5_2" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -62,9 +93,36 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Virtual enviroment for coursera excercises" />
     <option name="LAST_COMMIT_MESSAGE" value="Virtual enviroment for coursera excercises" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1969" y="221" width="424" height="491" key="FileChooserDialogImpl" timestamp="1596991830781">
+      <screen x="1366" y="0" width="1600" height="900" />
+    </state>
+    <state x="1969" y="221" width="424" height="491" key="FileChooserDialogImpl/1366.0.1600.900/0.27.1366.741@1366.0.1600.900" timestamp="1596991830781" />
+    <state width="1537" height="216" key="GridCell.Tab.0.bottom" timestamp="1596991959505">
+      <screen x="1366" y="0" width="1600" height="900" />
+    </state>
+    <state width="1537" height="216" key="GridCell.Tab.0.bottom/1366.0.1600.900/0.27.1366.741@1366.0.1600.900" timestamp="1596991959505" />
+    <state width="1537" height="216" key="GridCell.Tab.0.center" timestamp="1596991959505">
+      <screen x="1366" y="0" width="1600" height="900" />
+    </state>
+    <state width="1537" height="216" key="GridCell.Tab.0.center/1366.0.1600.900/0.27.1366.741@1366.0.1600.900" timestamp="1596991959505" />
+    <state width="1537" height="216" key="GridCell.Tab.0.left" timestamp="1596991959505">
+      <screen x="1366" y="0" width="1600" height="900" />
+    </state>
+    <state width="1537" height="216" key="GridCell.Tab.0.left/1366.0.1600.900/0.27.1366.741@1366.0.1600.900" timestamp="1596991959505" />
+    <state width="1537" height="216" key="GridCell.Tab.0.right" timestamp="1596991959505">
+      <screen x="1366" y="0" width="1600" height="900" />
+    </state>
+    <state width="1537" height="216" key="GridCell.Tab.0.right/1366.0.1600.900/0.27.1366.741@1366.0.1600.900" timestamp="1596991959505" />
+    <state x="1675" y="98" width="1022" height="737" key="SettingsEditor" timestamp="1596992246538">
+      <screen x="1366" y="0" width="1600" height="900" />
+    </state>
+    <state x="1675" y="98" width="1022" height="737" key="SettingsEditor/1366.0.1600.900/0.27.1366.741@1366.0.1600.900" timestamp="1596992246538" />
   </component>
 </project>
