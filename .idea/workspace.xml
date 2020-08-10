@@ -19,10 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a86df4bd-dbfb-4d7e-bb10-b3ecaebb24f7" name="Default Changelist" comment="Virtual enviroment for coursera excercises">
-      <change afterPath="$PROJECT_DIR$/Course2/Excersice_Dictonaries_9_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course2/Excersice_Tuples_10_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prueba.py" afterDir="false" />
+    <list default="true" id="a86df4bd-dbfb-4d7e-bb10-b3ecaebb24f7" name="Default Changelist" comment="Dictionaries and tuples excersices">
+      <change afterPath="$PROJECT_DIR$/Course3/Regular_expressions_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course3/regex_sum_42.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course3/regex_sum_825113.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +50,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.Excersice_Tuples_10_2">
+  <component name="RunManager" selected="Python.Regular_expressions_1">
     <configuration name="Excersice5_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -114,8 +114,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Regular_expressions_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Course3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Course3/Regular_expressions_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Regular_expressions_1" />
         <item itemvalue="Python.Excersice_Tuples_10_2" />
         <item itemvalue="Python.Excersice_Dictonaries_9_4" />
         <item itemvalue="Python.Excersice5_2" />
@@ -159,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596992289788</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Dictionaries and tuples excersices">
+      <created>1597012187747</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1597012187748</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -176,40 +205,42 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Virtual enviroment for coursera excercises" />
-    <option name="LAST_COMMIT_MESSAGE" value="Virtual enviroment for coursera excercises" />
+    <MESSAGE value="Dictionaries and tuples excersices" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dictionaries and tuples excersices" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1969" y="221" width="424" height="491" key="FileChooserDialogImpl" timestamp="1596991830781">
       <screen x="1366" y="0" width="1600" height="900" />
     </state>
     <state x="1969" y="221" width="424" height="491" key="FileChooserDialogImpl/1366.0.1600.900/0.27.1366.741@1366.0.1600.900" timestamp="1596991830781" />
-    <state width="1343" height="216" key="GridCell.Tab.0.bottom" timestamp="1597011708804">
-      <screen x="0" y="27" width="1366" height="741" />
+    <state width="1537" height="256" key="GridCell.Tab.0.bottom" timestamp="1597029247977">
+      <screen x="1366" y="0" width="1600" height="900" />
     </state>
     <state width="1343" height="216" key="GridCell.Tab.0.bottom/1366.0.1600.900/0.27.1366.741@0.27.1366.741" timestamp="1597011708804" />
-    <state width="1537" height="216" key="GridCell.Tab.0.bottom/1366.0.1600.900/0.27.1366.741@1366.0.1600.900" timestamp="1597011521670" />
-    <state width="1343" height="216" key="GridCell.Tab.0.center" timestamp="1597011708804">
-      <screen x="0" y="27" width="1366" height="741" />
+    <state width="1537" height="256" key="GridCell.Tab.0.bottom/1366.0.1600.900/0.27.1366.741@1366.0.1600.900" timestamp="1597029247977" />
+    <state width="1537" height="256" key="GridCell.Tab.0.center" timestamp="1597029247977">
+      <screen x="1366" y="0" width="1600" height="900" />
     </state>
     <state width="1343" height="216" key="GridCell.Tab.0.center/1366.0.1600.900/0.27.1366.741@0.27.1366.741" timestamp="1597011708804" />
-    <state width="1537" height="216" key="GridCell.Tab.0.center/1366.0.1600.900/0.27.1366.741@1366.0.1600.900" timestamp="1597011521670" />
-    <state width="1343" height="216" key="GridCell.Tab.0.left" timestamp="1597011708803">
-      <screen x="0" y="27" width="1366" height="741" />
+    <state width="1537" height="256" key="GridCell.Tab.0.center/1366.0.1600.900/0.27.1366.741@1366.0.1600.900" timestamp="1597029247977" />
+    <state width="1537" height="256" key="GridCell.Tab.0.left" timestamp="1597029247976">
+      <screen x="1366" y="0" width="1600" height="900" />
     </state>
     <state width="1343" height="216" key="GridCell.Tab.0.left/1366.0.1600.900/0.27.1366.741@0.27.1366.741" timestamp="1597011708803" />
-    <state width="1537" height="216" key="GridCell.Tab.0.left/1366.0.1600.900/0.27.1366.741@1366.0.1600.900" timestamp="1597011521670" />
-    <state width="1343" height="216" key="GridCell.Tab.0.right" timestamp="1597011708804">
-      <screen x="0" y="27" width="1366" height="741" />
+    <state width="1537" height="256" key="GridCell.Tab.0.left/1366.0.1600.900/0.27.1366.741@1366.0.1600.900" timestamp="1597029247976" />
+    <state width="1537" height="256" key="GridCell.Tab.0.right" timestamp="1597029247977">
+      <screen x="1366" y="0" width="1600" height="900" />
     </state>
     <state width="1343" height="216" key="GridCell.Tab.0.right/1366.0.1600.900/0.27.1366.741@0.27.1366.741" timestamp="1597011708804" />
-    <state width="1537" height="216" key="GridCell.Tab.0.right/1366.0.1600.900/0.27.1366.741@1366.0.1600.900" timestamp="1597011521670" />
+    <state width="1537" height="256" key="GridCell.Tab.0.right/1366.0.1600.900/0.27.1366.741@1366.0.1600.900" timestamp="1597029247977" />
     <state x="1675" y="98" width="1022" height="737" key="SettingsEditor" timestamp="1596992246538">
       <screen x="1366" y="0" width="1600" height="900" />
     </state>
     <state x="1675" y="98" width="1022" height="737" key="SettingsEditor/1366.0.1600.900/0.27.1366.741@1366.0.1600.900" timestamp="1596992246538" />
-    <state x="1781" y="199" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1596992296351">
-      <screen x="1366" y="0" width="1600" height="900" />
+    <state x="354" y="191" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1597012193710">
+      <screen x="0" y="27" width="1366" height="741" />
     </state>
+    <state x="354" y="191" key="Vcs.Push.Dialog.v2/1366.0.1600.900/0.27.1366.741@0.27.1366.741" timestamp="1597012193710" />
     <state x="1781" y="199" width="800" height="535" key="Vcs.Push.Dialog.v2/1366.0.1600.900/0.27.1366.741@1366.0.1600.900" timestamp="1596992296351" />
   </component>
 </project>
